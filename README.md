@@ -26,4 +26,4 @@
 
 
    - [DH_smy 내용 보기](/DH_smy.md)
-   - [unk_smy 내용 보기](\unk_smy.md)
+   - [unk_smy 내용 보기](/unk_smy.md)
