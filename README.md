@@ -40,3 +40,4 @@
    - 참고한 링크 및 사이트
    - https://docs.microsoft.com/en-us/cpp/porting/visual-cpp-change-history-2003-2015?redirectedfrom=MSDN&view=vs-2019
    - https://m.blog.naver.com/PostView.nhn?blogId=ruinarts&logNo=220620291624&targetKeyword=&targetRecommendationCode=1
+   - https://hot2364928.tistory.com/category/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D/%EC%9C%88%EB%8F%84%EC%9A%B0%EC%A6%88%20%EC%8B%9C%EC%8A%A4%ED%85%9C%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D
