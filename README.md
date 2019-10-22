@@ -30,3 +30,13 @@
  ## 스터디 진행상황
    - 10/16 : 1~3장 진도나감, 숙제 : 
    - 
+
+
+ ## 2nd study
+   - 교재 Errata sheet(오탈자) http://www.hanbit.co.kr/errata/view.html?isbn=9788979144611
+   - 98page ~ EXIT 명령어 구현하기 프로젝트 수행 
+   - 표준입출력이란 무었인지(3개 열리는 파일), 파일포인터의 개념, OS에서 왜 파일로 모든것(소켓 디바이스를)관리하는지에 대한 설명
+   - getts()함수 사용 불가능 -> //getts(cmdString) ->> 에서 fgetws(cmdString, sizeof(cmdString), stdin) 로 변경함 : 보안이슈 때문에
+   - 참고한 링크 및 사이트
+   - https://docs.microsoft.com/en-us/cpp/porting/visual-cpp-change-history-2003-2015?redirectedfrom=MSDN&view=vs-2019
+   - https://m.blog.naver.com/PostView.nhn?blogId=ruinarts&logNo=220620291624&targetKeyword=&targetRecommendationCode=1
